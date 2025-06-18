@@ -1,4 +1,6 @@
-# Welcome to Zerolabs
+# Welcome to Zerolabs 
+
+![Zerolabs Logo](/Zerolabs-dark.png)
 
 ## About Us
 
@@ -46,9 +48,9 @@ We believe in the power of community and open collaboration. Join us in shaping 
 
 Have questions or want to learn more about Zerolabs? We'd love to hear from you!
 
-- Website: [lume](https://lume.im)
+- Website: [zerolabs.ai](https://zerolabs.ai)
 - Twitter: [@zerolabs_ai](https://x.com/zerolabs_ai)
-- Email: hello@lume.im
+- Email: hello@zerolabs.ai
 
 ---
 
