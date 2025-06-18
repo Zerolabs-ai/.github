@@ -50,9 +50,9 @@ We believe in the power of community and open collaboration. Join us in shaping 
 
 Have questions or want to learn more about Zerolabs? We'd love to hear from you!
 
-- Website: [zerolabs.ai](https://zerolabs.ai)
+- Website: [lume.im](https://lume.im)
 - Twitter: [@zerolabs_ai](https://x.com/zerolabs_ai)
-- Email: hello@zerolabs.ai
+- Email: hi@lume.im
 
 ---
 
