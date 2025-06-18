@@ -1,6 +1,6 @@
 # Welcome to Zerolabs 
 
-![Zerolabs Logo](/Zerolabs-dark.png)
+![Zerolabs Logo](/zerolabs-dark.png)
 
 ## About Us
 
