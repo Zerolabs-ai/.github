@@ -1,10 +1,12 @@
 # Welcome to Zerolabs 
 
-![Zerolabs Logo](zerolabs-dark.png)
+<img src="/profile/Zerolabs-dark.png" alt="Zerolabs Logo" width="200"/>
 
 ## About Us
 
-Zerolabs is a pioneering AI research and development company focused on advancing the boundaries of artificial intelligence and its practical applications. We are dedicated to creating intelligent solutions that empower developers and businesses to build the next generation of AI-powered applications.
+Zerolabs is a pioneering AI research and development company focused on advancing the boundaries of artificial intelligence and its practical applications. We are dedicated to creating intelligent solutions that empower developers and businesses to build the next generation of AI-powered applications. 
+
+You might know us from Lume. Yeah we are the creators of lume ai agent.
 
 ## Our Mission
 
